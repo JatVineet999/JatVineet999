@@ -7,8 +7,6 @@
 
 
 
-- 🌱 I’m currently learning **React.js, Next.js & Express.js**
-
 - 👯 I’m looking to collaborate on **NoiseX**
 
 - 🤝 I’m looking for help with **roadmapZ**
