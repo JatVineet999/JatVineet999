@@ -7,17 +7,12 @@
 
 
 
-- 👯 I’m looking to collaborate on **NoiseX**
-
-- 🤝 I’m looking for help with **roadmapZ**
-
 - 👨‍💻 All of my projects are available at [https://github.com/JatVineet999](https://github.com/JatVineet999)
 
-- 💬 Ask me about **Vanilla.js, C/C++ & Python**
+- 💬 Ask me about **Vanilla.js, C, C#( C sharp), C++, Java & Python**
 
-- 📫 How to reach me **viprockz999@gmail.com**
+- 📫 How to reach me **pilaniavineeet@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mtM561q_MMhq5qbCWN1_kcFzC-jOQPoJ/view?usp=sharing](https://drive.google.com/file/d/1mtM561q_MMhq5qbCWN1_kcFzC-jOQPoJ/view?usp=sharing)
 
 - ⚡ Fun fact **My dream vacation is going to Catalonia and riding in a hot air balloon.**
 
